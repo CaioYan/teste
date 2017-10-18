@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Caio Yan E-commerce</title>
+    <title></title>
 </head>
-
 <body>
-<h1>Caio Yan E-commerce</h1>
+Bananinha quando nasce.
 </body>
 </html>
